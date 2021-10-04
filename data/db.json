@@ -1,0 +1,46 @@
+{
+    "assets": [
+    {
+        "id": "1",
+        "type": "live",
+        "title": "People rule",
+        "label": "rules",
+        "url": "/image-1"
+    },
+    {
+        "id": "2",
+        "type": "photo",
+        "title": "man with a hat people",
+        "label": "hat",
+        "url": "/image-1"
+    },
+    {
+        "id": "3",
+        "type": "photo",
+        "title": "man with a car",
+        "label": "car",
+        "url": "/image-1"
+    },
+    {
+        "id": "4",
+        "type": "live",
+        "title": "people watching tv",
+        "label": "televison",
+        "url": "/image-1"
+    },
+    {
+        "id": "5",
+        "type": "live",
+        "title": "people watching tv",
+        "label": "televison",
+        "url": "/image-1"
+    },
+    {
+        "id": "6",
+        "type": "live",
+        "title": "peple watching tv",
+        "label": "televison",
+        "url": "/image-1"
+    }
+    ]
+}

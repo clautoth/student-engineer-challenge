@@ -1,0 +1,32 @@
+@import "../../variables";
+
+.counter {
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  color: $secondary;
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  button {
+    border: 0;
+    border-radius: 10rem;
+    font-weight: normal;
+    font-size: 13px;
+    padding: 0.8rem 1.3rem;
+    margin: 0.2rem;
+    text-decoration: none;
+    min-width: 120px;
+    text-align: center;
+    background-color: $primary;
+    transition: background 150ms cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    color: $white;
+    cursor: pointer;
+    &:hover {
+      background-color: $secondary;
+      text-decoration: none;
+    }
+  }
+}
